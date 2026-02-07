@@ -16,7 +16,7 @@ Because that's just popped into my head, and it's easy to program
 
 This is just another `blink`. Why should it be complicated? ~~I already feel like writing a README for this is overkill~~
 
-No, I'm especially following Imagine Dragons and other pop music, but this is too viral for everyone not heard this song, right?
+Imagine Dragons or pop music isn't really my go-to genre, but this song is far too viral for anyone to have missed, right?
 
 ### Oh My GoD yOu UsE dElAy()!?
 
